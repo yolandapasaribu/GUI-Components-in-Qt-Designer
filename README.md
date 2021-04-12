@@ -9,7 +9,7 @@ Adapun teknologi yang kami gunakan adalah Qt Designer untuk mendesain dan mem-bu
 ## Dokumentasi
 
 1. Calendar Widget (Windows Vista Style)
-<a href = "https://github.com/yolandapasaribu/GUI-Components-in-Qt-Designer/blob/main/latihan1.gif" ></a> 
+<img src = "https://github.com/yolandapasaribu/GUI-Components-in-Qt-Designer/blob/main/latihan1.gif" >
 
     | Komponen |
     | ------ |
@@ -24,7 +24,7 @@ Adapun teknologi yang kami gunakan adalah Qt Designer untuk mendesain dan mem-bu
 
 
 2. Styles (Fushion Styles)
-<a href = "https://github.com/yolandapasaribu/GUI-Components-in-Qt-Designer/blob/main/latihan2.gif"></a>
+<img src= "https://github.com/yolandapasaribu/GUI-Components-in-Qt-Designer/blob/main/latihan2.gif">
 
     | Komponen |
     | ------ |
