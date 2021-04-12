@@ -11,38 +11,38 @@ Adapun teknologi yang kami gunakan adalah Qt Designer untuk mendesain dan mem-bu
 1. Calendar Widget (Windows Vista Style)
 <img src = "https://github.com/yolandapasaribu/GUI-Components-in-Qt-Designer/blob/main/latihan1.gif" >
 
-    | Komponen |
-    | ------ |
-    | Grid Layout |
-    | Vertical Layout|
-    | Group Box|
-    | calendarWidget |
-    | Label |
-    | Text Edit |
-    | CheckBox |
-    | ComboBox |
+| Komponen |
+| ------ |
+| Grid Layout |
+| Vertical Layout|
+| Group Box|
+| calendarWidget |
+| Label |
+| Text Edit |
+| CheckBox |
+| ComboBox |
 
 
 2. Styles (Fushion Styles)
 <img src= "https://github.com/yolandapasaribu/GUI-Components-in-Qt-Designer/blob/main/latihan2.gif">
 
-    | Komponen |
-    | ------ |
-    | Grid Layout |
-    | Horizontal Layout |
-    | Group Box |
-    | Label |
-    | CheckBox |
-    | ComboBox |
-    | Radio Button |
-    | Push Button |
-    | Tab  Widget |
-    | Table Widget |
-    | Line Edit |
-    | Radio Button |
-    | SpinBox |
-    | Date Time Edit |
-    | Horizontal Slider |
-    | Horizontal ScrollBar |
-    | Dial |
-    | Progress Bar |
+| Komponen |
+| ------ |
+| Grid Layout |
+| Horizontal Layout |
+| Group Box |
+| Label |
+| CheckBox |
+| ComboBox |
+| Radio Button |
+| Push Button |
+| Tab  Widget |
+| Table Widget |
+| Line Edit |
+| Radio Button |
+| SpinBox |
+| Date Time Edit |
+| Horizontal Slider |
+| Horizontal ScrollBar |
+| Dial |
+| Progress Bar |
